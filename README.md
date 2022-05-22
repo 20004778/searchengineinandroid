@@ -37,6 +37,7 @@ Registeration Number : 212220230052
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
+    android:background="@drawable/th"
     tools:context=".MainActivity">
 
 
@@ -53,7 +54,7 @@ Registeration Number : 212220230052
         android:layout_height="match_parent"
         android:fontFamily="sans-serif-black"
         android:textSize="36sp"
-        android:textColor="#9C27B0"
+        android:textColor="#FDD835"
         android:textColorHighlight="#4CAF50"
         android:textColorHint="#03A9F4"
         android:textColorLink="#E91E63"
